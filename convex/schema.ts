@@ -7,6 +7,6 @@ import { v } from "convex/values";
 // The schema provides more precise TypeScript types.
 export default defineSchema({
   numbers: defineTable({
-    value: v.number(),
+    value: v.number()
   }),
 });
