@@ -21,7 +21,7 @@ export default function Header() {
     >
       <Link href="/" className="flex gap-2 items-center">
         <BringToFront className="-rotate-45 text-blue-600" />
-        <h1 className="text-lg font-semibold">RecTrac</h1>
+        <h1 className="text-lg font-semibold">RecTrack</h1>
       </Link>
 
       <div className="flex items-center space-x-4">

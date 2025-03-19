@@ -7,7 +7,7 @@ import Header from "@/components/Header";
 import { cn } from "@/lib/utils";
 
 export const metadata: Metadata = {
-  title: "RecTrac",
+  title: "RecTrack",
   description: "A tool for tracking & analyzing your receipts using AI",
   icons: {
     icon: "/convex.svg",
